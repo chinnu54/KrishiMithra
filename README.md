@@ -1,4 +1,4 @@
-# smart_irrigation_system
+# KrishiMithra
 
 A new Flutter project.
 
