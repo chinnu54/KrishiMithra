@@ -34,26 +34,26 @@ cd krishimithra
 open the project with Android Studio
 
 
-##To build the project 
+To build the project 
 
-###flutter doctor 
+flutter doctor 
  
    To know weather flutter is installed properly or not
 
-###flutter pub get
+flutter pub get
    
    To install all dependencies that mentioned in pubspec.yml file
 
-###flutter build apk --release
+flutter build apk --release
  	build/app/outputs/flutter-apk/app-release.apk
 
-###flutter run 
+flutter run 
 	
 	This to be excuted after execution of flutter pub get command 
 	
 	This run our application in connected device (only debug version)
 
-###flutter clean
+flutter clean
 
 	To delete our builds and packages
  
