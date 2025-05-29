@@ -1,0 +1,370 @@
+<cities>
+    <city>
+        <district>Srikakulam</district>
+        <name>Amadalavalasa</name>
+        <code>99369</code>
+    </city>
+    <city>
+        <district>Vizianagaram</district>
+        <name>Vizianagaram</name>
+        <code>99367</code>
+    </city>
+    <city>
+        <district>Parvathipuram Manyam</district>
+        <name>Kalingapatnam</name>
+        <code>43105</code>
+    </city>
+    <city>
+        <district>Alluri Sitharama Raju</district>
+        <name>Alluri Sitharamaraju</name>
+        <code>90088</code>
+    </city>
+    <city>
+        <district>Visakhapatnam</district>
+        <name>Visakhapatnam</name>
+        <code>43150</code>
+    </city>
+    <city>
+        <district>Anakapalli</district>
+        <name>Tuni</name>
+        <code>43147</code>
+    </city>
+    <city>
+        <district>Kakinada</district>
+        <name>Kakinada</name>
+        <code>43189</code>
+    </city>
+    <city>
+        <district>Dr. B.R. Ambedkar Konaseema</district>
+        <name>Kalavacharla</name>
+        <code>99362</code>
+    </city>
+    <city>
+        <district>East Godavari</district>
+        <name>Venkatramannagudem</name>
+        <code>99363</code>
+    </city>
+    <city>
+        <district>West Godavari</district>
+        <name>Narasapur</name>
+        <code>43187</code>
+    </city>
+    <city>
+        <district>Eluru</district>
+        <name>Garikapadu</name>
+        <code>99366</code>
+    </city>
+    <city>
+        <district>Krishna</district>
+        <name>Machilipatnam</name>
+        <code>43185</code>
+    </city>
+    <city>
+        <district>NTR District</district>
+        <name>Vijayawada-gannavaram</name>
+        <code>43181</code>
+    </city>
+    <city>
+        <district>Guntur</district>
+        <name>Amaravati-ap</name>
+        <code>43176</code>
+    </city>
+    <city>
+        <district>Palnadu</district>
+        <name>Ongole</name>
+        <code>43221</code>
+    </city>
+    <city>
+        <district>Bapatla</district>
+        <name>Bapatla</name>
+        <code>43220</code>
+    </city>
+    <city>
+        <district>Prakasam</district>
+        <name>Darsi</name>
+        <code>99368</code>
+    </city>
+    <city>
+        <district>Sri Potti Sriramulu Nellore</district>
+        <name>Nellore</name>
+        <code>43245</code>
+    </city>
+    <city>
+        <district>Kurnool</district>
+        <name>Kurnool</name>
+        <code>43213</code>
+    </city>
+    <city>
+        <district>Nandyal</district>
+        <name>Banavasi</name>
+        <code>99364</code>
+    </city>
+    <city>
+        <district>Anantapur</district>
+        <name>Anantapur</name>
+        <code>43237</code>
+    </city>
+    <city>
+        <district>Sri Sathya Sai</district>
+        <name>Utkuru</name>
+        <code>99370</code>
+    </city>
+    <city>
+        <district>YSR Kadapa</district>
+        <name>Cuddappah</name>
+        <code>43241</code>
+    </city>
+    <city>
+        <district>Annamayya</district>
+        <name>Tirupati</name>
+        <code>43275</code>
+    </city>
+    <city>
+        <district>Chittoor</district>
+        <name>Tirupati</name>
+        <code>43275</code>
+    </city>
+    <city>
+        <district>Sri Balaji District</district>
+          <name>Tirupati</name>
+        <code>43275</code>
+    </city>
+</cities>
+
+
+<!-- end of andhara pradesh places -->
+    
+
+<!-- start of Telangana -->
+
+
+   <!-- <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    
+   <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+    <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+    <city>
+
+        <district></district>
+
+        <name></name>
+
+        <code></code>
+    </city>
+
+
+
+
+
+
+</cities> -->

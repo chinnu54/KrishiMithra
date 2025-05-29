@@ -1,0 +1,84 @@
+List<String> apDistricts = [
+    'Srikakulam',
+    'Vizianagaram',
+    'Parvathipuram Manyam',
+    'Alluri Sitharama Raju',
+    'Visakhapatnam',
+    'Anakapalli',
+    'Kakinada',
+    'Dr. B.R. Ambedkar Konaseema',
+    'East Godavari',
+    'West Godavari',
+    'Eluru',
+    'Krishna',
+    'NTR District',
+    'Guntur',
+    'Palnadu',
+    'Bapatla',
+    'Prakasam',
+    'Sri Potti Sriramulu Nellore',
+    'Kurnool',
+    'Nandyal',
+    'Anantapur',
+    'Sri Sathya Sai',
+    'YSR Kadapa',
+    'Annamayya',
+    'Chittoor',
+    'Sri Balaji District',
+  ];
+
+
+
+
+
+  List<String> telanganaDistricts = [
+    'Adilabad',
+    'Komaram Bheem Asifabad',
+    'Mancherial',
+    'Nirmal',
+    'Nizamabad',
+    'Jagtial',
+    'Peddapalli',
+    'Karimnagar',
+    'Rajanna Sircilla',
+    'Jayashankar Bhupalpally',
+    'Mulugu',
+    'Bhadradri Kothagudem',
+    'Khammam',
+    'Mahabubabad',
+    'Warangal (Hanamkonda)',
+    'Warangal (Warangal)',
+    'Jangaon',
+    'Siddipet',
+    'Mahabubnagar',
+    'Nagarkurnool',
+    'Wanaparthy',
+    'Jogulamba Gadwal',
+    'Kamareddy',
+    'Medak',
+    'Sangareddy',
+    'Vikarabad',
+    'Rangareddy',
+    'Hyderabad',
+    'Medchal-Malkajgiri',
+    'Yadadri Bhuvanagiri',
+    'Suryapet',
+    'Nalgonda',
+    'Narayanpet',
+  ];
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
